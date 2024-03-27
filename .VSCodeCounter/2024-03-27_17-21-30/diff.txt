@@ -1,0 +1,38 @@
+Date : 2024-03-27 17:21:30
+Directory : /Users/arjunsharma/Desktop/TheLastParkingSpot
+Total : 10 files,  550 codes, 0 comments, 52 blanks, all 602 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Markdown |          8 |        548 |          0 |         52 |        600 |
+| JSON     |          2 |          2 |          0 |          0 |          2 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |         10 |        550 |          0 |         52 |        602 |
+| .VSCodeCounter                                                                                   |         10 |        550 |          0 |         52 |        602 |
+| .VSCodeCounter/2024-03-27_17-06-08                                                               |          5 |        275 |          0 |         26 |        301 |
+| .VSCodeCounter/2024-03-27_17-08-26                                                               |          5 |        275 |          0 |         26 |        301 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                         | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-06-08/details.md      | Markdown |        111 |          0 |          6 |        117 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-06-08/diff-details.md | Markdown |          9 |          0 |          6 |         15 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-06-08/diff.md         | Markdown |         12 |          0 |          7 |         19 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-06-08/results.json    | JSON     |          1 |          0 |          0 |          1 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-06-08/results.md      | Markdown |        142 |          0 |          7 |        149 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-08-26/details.md      | Markdown |        111 |          0 |          6 |        117 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-08-26/diff-details.md | Markdown |          9 |          0 |          6 |         15 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-08-26/diff.md         | Markdown |         12 |          0 |          7 |         19 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-08-26/results.json    | JSON     |          1 |          0 |          0 |          1 |
+| /Users/arjunsharma/Desktop/TheLastParkingSpot/.VSCodeCounter/2024-03-27_17-08-26/results.md      | Markdown |        142 |          0 |          7 |        149 |
+| Total                                                                                            |          |        550 |          0 |         52 |        602 |
++--------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
