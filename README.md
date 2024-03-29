@@ -1,5 +1,7 @@
 # TheLastParkingSpot
 
+<img width="1440" alt="TheLastParkingSpot" src="https://github.com/arjundevensharma/TheLastParkingSpot/assets/129678257/6711568d-3242-4c9a-ab58-1bdfacb0f405">
+
 Musical Chairs-inspired Unity 2D racing game w/ AI functionality. 214073 lines of code. Among the largest projects I've undertaken. Last updated: May 18, 2023.
 
 ## How to Play
